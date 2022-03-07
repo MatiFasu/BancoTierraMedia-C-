@@ -1,0 +1,40 @@
+C:\Users\Matias\Desktop\Matias\Programas\VS-C#-\BancoTierraMedia\obj\Debug\net5.0-windows\BancoTierraMedia.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\Matias\Programas\VS-C#-\BancoTierraMedia\obj\Debug\net5.0-windows\BancoTierraMedia.Inicio.resources
+C:\Users\Matias\Desktop\Matias\Programas\VS-C#-\BancoTierraMedia\obj\Debug\net5.0-windows\BancoTierraMedia.Prestamos.resources
+C:\Users\Matias\Desktop\Matias\Programas\VS-C#-\BancoTierraMedia\obj\Debug\net5.0-windows\BancoTierraMedia.Properties.Resources.resources
+C:\Users\Matias\Desktop\Matias\Programas\VS-C#-\BancoTierraMedia\obj\Debug\net5.0-windows\BancoTierraMedia.csproj.GenerateResource.cache
+C:\Users\Matias\Desktop\Matias\Programas\VS-C#-\BancoTierraMedia\obj\Debug\net5.0-windows\BancoTierraMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matias\Desktop\Matias\Programas\VS-C#-\BancoTierraMedia\obj\Debug\net5.0-windows\BancoTierraMedia.AssemblyInfoInputs.cache
+C:\Users\Matias\Desktop\Matias\Programas\VS-C#-\BancoTierraMedia\obj\Debug\net5.0-windows\BancoTierraMedia.AssemblyInfo.cs
+C:\Users\Matias\Desktop\Matias\Programas\VS-C#-\BancoTierraMedia\obj\Debug\net5.0-windows\BancoTierraMedia.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\Matias\Programas\VS-C#-\BancoTierraMedia\bin\Debug\net5.0-windows\BancoTierraMedia.exe
+C:\Users\Matias\Desktop\Matias\Programas\VS-C#-\BancoTierraMedia\bin\Debug\net5.0-windows\BancoTierraMedia.deps.json
+C:\Users\Matias\Desktop\Matias\Programas\VS-C#-\BancoTierraMedia\bin\Debug\net5.0-windows\BancoTierraMedia.runtimeconfig.json
+C:\Users\Matias\Desktop\Matias\Programas\VS-C#-\BancoTierraMedia\bin\Debug\net5.0-windows\BancoTierraMedia.runtimeconfig.dev.json
+C:\Users\Matias\Desktop\Matias\Programas\VS-C#-\BancoTierraMedia\bin\Debug\net5.0-windows\BancoTierraMedia.dll
+C:\Users\Matias\Desktop\Matias\Programas\VS-C#-\BancoTierraMedia\bin\Debug\net5.0-windows\ref\BancoTierraMedia.dll
+C:\Users\Matias\Desktop\Matias\Programas\VS-C#-\BancoTierraMedia\bin\Debug\net5.0-windows\BancoTierraMedia.pdb
+C:\Users\Matias\Desktop\Matias\Programas\VS-C#-\BancoTierraMedia\obj\Debug\net5.0-windows\BancoTierraMedia.dll
+C:\Users\Matias\Desktop\Matias\Programas\VS-C#-\BancoTierraMedia\obj\Debug\net5.0-windows\ref\BancoTierraMedia.dll
+C:\Users\Matias\Desktop\Matias\Programas\VS-C#-\BancoTierraMedia\obj\Debug\net5.0-windows\BancoTierraMedia.pdb
+C:\Users\Matias\Desktop\Matias\Programas\VS-C#-\BancoTierraMedia\obj\Debug\net5.0-windows\BancoTierraMedia.genruntimeconfig.cache
+C:\Users\Matias\Desktop\Matias\Programas\Visual Studio\BancoTierraMedia\bin\Debug\net5.0-windows\BancoTierraMedia.exe
+C:\Users\Matias\Desktop\Matias\Programas\Visual Studio\BancoTierraMedia\bin\Debug\net5.0-windows\BancoTierraMedia.deps.json
+C:\Users\Matias\Desktop\Matias\Programas\Visual Studio\BancoTierraMedia\bin\Debug\net5.0-windows\BancoTierraMedia.runtimeconfig.json
+C:\Users\Matias\Desktop\Matias\Programas\Visual Studio\BancoTierraMedia\bin\Debug\net5.0-windows\BancoTierraMedia.runtimeconfig.dev.json
+C:\Users\Matias\Desktop\Matias\Programas\Visual Studio\BancoTierraMedia\bin\Debug\net5.0-windows\BancoTierraMedia.dll
+C:\Users\Matias\Desktop\Matias\Programas\Visual Studio\BancoTierraMedia\bin\Debug\net5.0-windows\ref\BancoTierraMedia.dll
+C:\Users\Matias\Desktop\Matias\Programas\Visual Studio\BancoTierraMedia\bin\Debug\net5.0-windows\BancoTierraMedia.pdb
+C:\Users\Matias\Desktop\Matias\Programas\Visual Studio\BancoTierraMedia\obj\Debug\net5.0-windows\BancoTierraMedia.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\Matias\Programas\Visual Studio\BancoTierraMedia\obj\Debug\net5.0-windows\BancoTierraMedia.Inicio.resources
+C:\Users\Matias\Desktop\Matias\Programas\Visual Studio\BancoTierraMedia\obj\Debug\net5.0-windows\BancoTierraMedia.Prestamos.resources
+C:\Users\Matias\Desktop\Matias\Programas\Visual Studio\BancoTierraMedia\obj\Debug\net5.0-windows\BancoTierraMedia.Properties.Resources.resources
+C:\Users\Matias\Desktop\Matias\Programas\Visual Studio\BancoTierraMedia\obj\Debug\net5.0-windows\BancoTierraMedia.csproj.GenerateResource.cache
+C:\Users\Matias\Desktop\Matias\Programas\Visual Studio\BancoTierraMedia\obj\Debug\net5.0-windows\BancoTierraMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matias\Desktop\Matias\Programas\Visual Studio\BancoTierraMedia\obj\Debug\net5.0-windows\BancoTierraMedia.AssemblyInfoInputs.cache
+C:\Users\Matias\Desktop\Matias\Programas\Visual Studio\BancoTierraMedia\obj\Debug\net5.0-windows\BancoTierraMedia.AssemblyInfo.cs
+C:\Users\Matias\Desktop\Matias\Programas\Visual Studio\BancoTierraMedia\obj\Debug\net5.0-windows\BancoTierraMedia.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\Matias\Programas\Visual Studio\BancoTierraMedia\obj\Debug\net5.0-windows\BancoTierraMedia.dll
+C:\Users\Matias\Desktop\Matias\Programas\Visual Studio\BancoTierraMedia\obj\Debug\net5.0-windows\ref\BancoTierraMedia.dll
+C:\Users\Matias\Desktop\Matias\Programas\Visual Studio\BancoTierraMedia\obj\Debug\net5.0-windows\BancoTierraMedia.pdb
+C:\Users\Matias\Desktop\Matias\Programas\Visual Studio\BancoTierraMedia\obj\Debug\net5.0-windows\BancoTierraMedia.genruntimeconfig.cache
